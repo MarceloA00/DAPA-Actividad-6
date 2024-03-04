@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAPA Actividad 6</string>
+    <string name="current_date">Current Date:</string>
+    <string name="birth_date">Birthday Date:</string>
+    <string name="current_age">Age:</string>
+    <string name="choose_birthday_date">Choose Birthday Date</string>
+</resources>
